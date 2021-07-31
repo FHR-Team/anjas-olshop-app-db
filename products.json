@@ -1,0 +1,89 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "name": "Produk 1",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 2",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 3",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 4",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 5",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 6",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 7",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 8",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 9",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 10",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 11",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    },
+    {
+      "name": "Produk 12",
+      "price": 123456,
+      "desc": "Lorem ipsum dolor sit amet",
+      "stock": 20,
+      "image": "https://via.placeholder.com/128"
+    }
+  ]
+}
