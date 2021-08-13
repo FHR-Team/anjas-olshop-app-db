@@ -2,52 +2,52 @@
     "status":"success",
     "data":[
         {
-            id:1,
-            name:"Produk 1",
-            price:123456,
-            desc:"Lorem ipsum dolor sit amet",
-            stock:20,
-            image:"https://via.placeholder.com/1280x640?text=foto+produk"
+            "id":1,
+            "name":"Produk 1",
+            "price":123456,
+            "desc":"Lorem ipsum dolor sit amet",
+            "stock":20,
+            "image":"https://via.placeholder.com/1280x640?text=foto+produk"
         },
         {
-            id:2,
-            name:"Produk 2",
-            price:123456,
-            desc:"Lorem ipsum dolor sit amet",
-            stock:20,
-            image:"https://via.placeholder.com/1280x640?text=foto+produk"
+            "id":2,
+            "name":"Produk 2",
+            "price":123456,
+            "desc":"Lorem ipsum dolor sit amet",
+            "stock":20,
+            "image":"https://via.placeholder.com/1280x640?text=foto+produk"
         },
         {
-            id:3,
-            name:"Produk 3",
-            price:123456,
-            desc:"Lorem ipsum dolor sit amet",
-            stock:20,
-            image:"https://via.placeholder.com/1280x640?text=foto+produk"
+            "id":3,
+            "name":"Produk 3",
+            "price":123456,
+            "desc":"Lorem ipsum dolor sit amet",
+            "stock":20,
+            "image":"https://via.placeholder.com/1280x640?text=foto+produk"
         },
         {
-            id:4,
-            name:"Produk 4",
-            price:123456,
-            desc:"Lorem ipsum dolor sit amet",
-            stock:20,
-            image:"https://via.placeholder.com/1280x640?text=foto+produk"
+            "id":4,
+            "name":"Produk 4",
+            "price":123456,
+            "desc":"Lorem ipsum dolor sit amet",
+            "stock":20,
+            "image":"https://via.placeholder.com/1280x640?text=foto+produk"
         },
         {
-            id:5,
-            name:"Produk 5",
-            price:123456,
-            desc:"Lorem ipsum dolor sit amet",
-            stock:20,
-            image:"https://via.placeholder.com/1280x640?text=foto+produk"
+            "id":5,
+            "name":"Produk 5",
+            "price":123456,
+            "desc":"Lorem ipsum dolor sit amet",
+            "stock":20,
+            "image":"https://via.placeholder.com/1280x640?text=foto+produk"
         },
         {
-            id:6,
-            name:"Produk 6",
-            price:123456,
-            desc:"Lorem ipsum dolor sit amet",
-            stock:20,
-            image:"https://via.placeholder.com/1280x640?text=foto+produk"
+            "id":6,
+            "name":"Produk 6",
+            "price":123456,
+            "desc":"Lorem ipsum dolor sit amet",
+            "stock":20,
+            "image":"https://via.placeholder.com/1280x640?text=foto+produk"
         }
     ]
 }
